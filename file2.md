@@ -1,2 +1,2 @@
 
-[reademe](README.md)
+[readme](README.md)
