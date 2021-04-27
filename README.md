@@ -6,9 +6,4 @@
 ![markdown](https://markdown-here.com/img/icon256.png)
 
 >blockquate
-`code block
-<html>
-  <body>
-    <div></div>
-  </body>
- </html>`
+` <p>this is a code block</p>`
